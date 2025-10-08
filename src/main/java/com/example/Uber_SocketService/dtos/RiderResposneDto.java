@@ -11,4 +11,5 @@ import lombok.*;
 public class RiderResposneDto {
 
     private Boolean resposne;
+    private Long bookingId;
 }
